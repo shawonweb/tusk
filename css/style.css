@@ -1,0 +1,74 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.container{
+	width: 1140px;
+	margin: 0px auto;
+}
+.hero{
+	width: 100%;
+	float: left;
+	padding: 25px 0px;
+	background: url(../img/bg.jpg) no-repeat;
+	background-size: cover;
+	color: #fff;
+	height: 100vh;
+}
+/* Section One*/
+.one{
+	width: 60%;
+	float: left;
+
+}
+.one h2{
+	text-transform: uppercase;
+}
+.one p{
+	
+}
+.one ul{
+	list-style: none;
+}
+.one ul li{
+	margin: 10px 0px;
+}
+.one button{
+	background-color: lightblue;
+    padding: 10px;
+    color: #fff;
+    border: none;
+    border-radius: 15px;
+    text-transform: uppercase;
+}
+
+/*Section Two*/
+.two{
+	width: 40%;
+	float: left;
+	padding: 25px 0px;
+	text-align: center;
+	background-color: lightblue;
+}
+
+.two h2{
+	text-transform:uppercase;
+}
+.two p{
+	margin-bottom: 16px;
+}
+.form-one{
+	margin: 0px 100px;
+}
+.form-one input{
+	margin: 2px;
+    padding: 2px 38px;
+}
+.form-one button{
+	background-color: blue;
+    margin: 5px;
+    padding: 10px 70px;
+    color: #fff;
+    border: none;
+    text-transform: uppercase;
+}
